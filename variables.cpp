@@ -30,4 +30,4 @@ int main(){
 }
 
 
-
+///understanding variable scope
