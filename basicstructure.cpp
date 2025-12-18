@@ -1,4 +1,4 @@
-#include <iostream> //header file that helps with input/output
+#include <iostream> //file that handles input/output
 
 //main is the entry point where program initiates 
 //while int will specify that main returns an integer to OS 
