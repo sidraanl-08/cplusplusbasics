@@ -33,11 +33,10 @@ int main(){
     cout <<"Name:"<< name << endl;
 
     return 0;
+
+
 }
 
 
-///understanding variable scope
-//it is the region in the code where existence of a variable is valid
-//local variables: declared inside braces of any function, can be accessed only from there
-//global variables: declared outside function and can be accessed only from anywhere
-//global and local variables can have same name in C++
+
+
